@@ -45,7 +45,6 @@ Após a execução das ações, o Cypress realiza asserções para garantir que 
 
 ![Resumo do Teste](img/image-3.png)
 
-![Mensagem de Sucesso](img/image-2.png)
 
 ---
 
