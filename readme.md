@@ -44,7 +44,7 @@ Após a execução das ações, o Cypress realiza asserções para garantir que 
 
 
 ![Resumo do Teste](img/image-3.png)
-
+![alt text](img/image-4.png)
 
 ---
 
